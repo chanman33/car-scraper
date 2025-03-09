@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-03-09 13:57:37",
+  "vehicle": "2017 Buick Cascada Sport Touring",
+  "listing_price": 12997.0,
+  "mileage": 99749.0,
+  "predicted_price": 14696,
+  "price_range_low": 14505,
+  "price_range_high": 14886,
+  "deal_rating": "Good Deal",
+  "specs": {
+    "year": 2017,
+    "make": "buick",
+    "model": "cascada",
+    "trim": "Sport Touring",
+    "base_exterior_color": null,
+    "base_interior_color": null,
+    "is_certified": false,
+    "carfax_1_owner": false,
+    "carfax_clean_title": false,
+    "transmission": null,
+    "drivetrain": null,
+    "engine_block": null,
+    "engine_size": null,
+    "cylinders": null,
+    "doors": null,
+    "highway_mpg": null,
+    "city_mpg": null,
+    "latitude": 40.7608,
+    "longitude": -111.891,
+    "miles": 99749,
+    "country": "us"
+  }
+}
